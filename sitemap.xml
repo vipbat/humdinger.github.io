@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://vipbat.github.io/posts/welcome/index.html</loc>
-    <lastmod>2025-03-09T18:23:12.141Z</lastmod>
-  </url>
-  <url>
     <loc>https://vipbat.github.io/posts/hello-world/index.html</loc>
     <lastmod>2025-03-09T18:40:56.805Z</lastmod>
   </url>
@@ -15,9 +11,5 @@
   <url>
     <loc>https://vipbat.github.io/index.html</loc>
     <lastmod>2025-03-09T18:23:12.139Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vipbat.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2025-03-09T18:23:12.150Z</lastmod>
   </url>
 </urlset>
